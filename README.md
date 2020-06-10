@@ -1,7 +1,7 @@
 # Agilisium Product
-Provide REST API with basic authendication
+Provide REST API with basic authentication
 
-This is porject developed with Java, Spring boot web, securiy modules.
+This is project developed with Java, Spring boot web, security modules.
 
 ### Prerequisites:
  - Java 8 or later
@@ -10,7 +10,7 @@ This is porject developed with Java, Spring boot web, securiy modules.
 
 ### Run Application:
 - Download this project and unzip the file and locate some folder(i.e. C:\dev\agilisium)
-- Open command promt and naviagate to the project root folder
+- Open command line and navigate to the project root folder
 
 - #### Clean & Install:
     - Execute below command to download the dependencies
@@ -41,5 +41,5 @@ This is porject developed with Java, Spring boot web, securiy modules.
   | Name | API | Request Method | Comments |
   | ---- | --- | -------------- | -------- |
   |Product Details | /api/getproductdetails | GET | List out all the available products |
-  |Config Details | /api/getconfigdetails | GET | List out all the configuration for the products |
+  |Configuration Details | /api/getconfigdetails | GET | List out all the configuration for the products |
  
